@@ -1,16 +1,12 @@
 ## Hi there 👋
-
-<!--
-**patriciafigueredo2412/patriciafigueredo2412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍💻 About MeHello! I'm Patricia, a detail-oriented Computer Science student at Miami Dade College. I hold an Associate in Arts (A.A.) in Computer Science with a 4.0 GPA, and I have a strong foundation in programming languages such as C, C++, Java, and Python.
+I am highly skilled in problem-solving and coming up with creative solutions to technical challenges. In addition to my programming skills, I bring a unique background in supervision and administration, where I have successfully automated workflows, optimized resource processes, and coordinated teams to improve overall efficiency.I am eager to leverage my technical skills and leadership experience to contribute to a dynamic team and drive innovative solutions.💼 
+Experience:
+-Front Desk Supervisor – Estrella Medical Center, Miami, FL April 2023 – April 2025 Created automated workflows for scheduling and document processing, which reduced client wait times and improved overall office productivity.Developed and implemented strategies to streamline front desk operations, resulting in an increase in appointment confirmation efficiency and resource optimization.Trained new staff members on procedures and created weekly schedules based on occupancy levels.
+-Registered Behavior Technician – Better Future Therapy Center, Miami, FL January 2024 – Present Maintained accurate data collection systems for behavior tracking purposes.Implemented proactive strategies and applied reinforcement techniques to increase desirable behaviors.
+🛠️ Projects
+Safe Box System Developed a secure digital safe box using C and Arduino, integrating motor control and Bluetooth communication.Programmed the system to utilize two motors for retrieving and unlocking the safe via signals from a mobile app.Configured the app to require a password, ensuring secure control of the safe via Bluetooth.
+Student Database System Created a student database management system in C++ to store and manage student data, including test scores, GPAs, and course enrollment.Designed a user-friendly menu interface allowing users to create profiles, input data, and modify records easily.
+📜 Certifications & SkillsCertifications: Introduction to CS50 (Harvard University, 2025) , Oracle Java Foundations (Oracle University, 2025).
+Languages: C, C++, Java, Python.
+Spoken Languages: Spanish (Native) , English (Bilingual) , American Sign Language (Beginner).
