@@ -1,12 +1,54 @@
-## Hi there 👋
-👩‍💻 About MeHello! I'm Patricia, a detail-oriented Computer Science student at Miami Dade College. I hold an Associate in Arts (A.A.) in Computer Science with a 4.0 GPA, and I have a strong foundation in programming languages such as C, C++, Java, and Python.
-I am highly skilled in problem-solving and coming up with creative solutions to technical challenges. In addition to my programming skills, I bring a unique background in supervision and administration, where I have successfully automated workflows, optimized resource processes, and coordinated teams to improve overall efficiency.I am eager to leverage my technical skills and leadership experience to contribute to a dynamic team and drive innovative solutions.💼 
-Experience:
--Front Desk Supervisor – Estrella Medical Center, Miami, FL April 2023 – April 2025 Created automated workflows for scheduling and document processing, which reduced client wait times and improved overall office productivity.Developed and implemented strategies to streamline front desk operations, resulting in an increase in appointment confirmation efficiency and resource optimization.Trained new staff members on procedures and created weekly schedules based on occupancy levels.
--Registered Behavior Technician – Better Future Therapy Center, Miami, FL January 2024 – Present Maintained accurate data collection systems for behavior tracking purposes.Implemented proactive strategies and applied reinforcement techniques to increase desirable behaviors.
-🛠️ Projects
-Safe Box System Developed a secure digital safe box using C and Arduino, integrating motor control and Bluetooth communication.Programmed the system to utilize two motors for retrieving and unlocking the safe via signals from a mobile app.Configured the app to require a password, ensuring secure control of the safe via Bluetooth.
-Student Database System Created a student database management system in C++ to store and manage student data, including test scores, GPAs, and course enrollment.Designed a user-friendly menu interface allowing users to create profiles, input data, and modify records easily.
-📜 Certifications & SkillsCertifications: Introduction to CS50 (Harvard University, 2025) , Oracle Java Foundations (Oracle University, 2025).
-Languages: C, C++, Java, Python.
-Spoken Languages: Spanish (Native) , English (Bilingual) , American Sign Language (Beginner).
+# Hi there, I'm Patricia (Pat) 👋
+
+Computer Science undergraduate at **Florida International University** with a background in software development, data tracking, and workflow automation. Passionate about building practical tools, exploring computational algorithms, and streamlining organizational systems.
+
+---
+
+### 👩‍💻 About Me
+
+- 🎓 **Education:** B.A. in Computer Science @ **Florida International University** | A.A. in Computer Science @ **Miami Dade College** (4.0 GPA)
+- 💼 **Current Roles:** 
+  - IT Software Development Intern @ **FEAM Aero**
+  - Registered Behavior Technician (RBT)
+- 🏛️ **Campus & Community Leadership:** 
+  - Director of Finance & Data @ **INIT FIU**
+  - Volunteer Operations Lead @ **ShellHacks**
+- 🔬 **Current Focus:** Computational geometry research in Java, full-stack web interfaces, and backend workflow automation.
+- 💬 **Languages:** English (Bilingual), Spanish (Native), ASL (Beginner)
+
+---
+
+### 💼 Experience
+
+#### **IT Software Development Intern** | FEAM Aero  
+*Ongoing*
+- Developing internal software solutions and streamlining IT workflows to support aviation maintenance operations.
+- Collaborating across engineering teams to design, test, and deploy software features.
+
+#### **Software Engineering Sprintern** | Royal Caribbean Group  
+*May 2026*
+- Developed a multi-agent system to automate incident response workflows, cutting down triage time and cross-team notification latency.
+- Collaborated in an agile setting to design, test, and present functional AI-driven incident management tooling.
+
+#### **Registered Behavior Technician (RBT)** | Miami, FL  
+*January 2024 – Present*
+- Track, analyze, and manage real-time client behavioral data with precision.
+- Engineered a custom local tracking application to optimize internal record-keeping and audit readiness.
+
+---
+
+### 🛠️️ Featured Projects
+
+#### **RBT Supervision & Data Tracker**
+*Python, Tkinter, SQLite*
+- Built a standalone desktop application to streamline supervisory hours, audit logging, and BACB compliance data.
+- Implemented robust local database storage with an intuitive UI to eliminate manual spreadsheet tracking errors.
+
+#### **Retro Desktop & RPG Portfolio**
+*React, Tailwind CSS, TypeScript*
+- Interactive personal portfolio inspired by retro desktop operating systems and 16-bit pixel RPG aesthetics.
+- Designed dynamic window management, draggable widgets, and custom state machines for retro UI elements.
+
+#### **Autonomous Incident Response Multi-Agent System**
+*Python, LLM Frameworks, API Integrations*
+- Architected a
